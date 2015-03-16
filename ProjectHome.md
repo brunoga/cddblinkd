@@ -1,0 +1,1 @@
+CDDBLinkD integrates Haiku's CDDA-FS with CDDB databases and makes ripping CDs as seamless as possible.
